@@ -45,7 +45,7 @@ To run this project, you will need to have a Java Development Kit (JDK) installe
 
 1.  **Clone the repository:**
     ```sh
-    git clone <your-repository-url>
+    git clone git@github.com:CodeFather-xe/Restaurant-Management-System.git
     cd Restaurant-Management-System
     ```
 
